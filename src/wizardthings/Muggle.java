@@ -1,5 +1,6 @@
 /*
  * Name:Allanah Brisebois
+ * Muggles rule
  */
 
 package wizardthings;
